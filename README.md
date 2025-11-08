@@ -153,3 +153,7 @@ const userData = [
 npm run dev
 
 ```
+
+<!-- Redux -->
+npm install @reduxjs/toolkit
+npm install react-redux
